@@ -10,16 +10,6 @@ The goal of this project is to predict the sale prices of houses based on variou
 
 The repository is organized as follows:
 
-- `data/`: Contains the dataset used for training and testing the model.
-- `notebooks/`: Jupyter notebooks with the code for data exploration, feature engineering, model building, and evaluation.
-- `scripts/`: Python scripts for data preprocessing, model training, and prediction.
-- `requirements.txt`: Lists the project's dependencies for creating a virtual environment.
-- `LICENSE`: The project's open-source license.
+- `housing.csv`: Contains the dataset used for training and testing the model.
+- `script.ipynb`: Jupyter notebooks with the code for data exploration, feature engineering, model building, and evaluation.
 - `README.md`: The document you are currently reading.
-
-## Prerequisites
-
-To run the project, you need Python and several libraries. You can install the required dependencies by running:
-
-```bash
-pip install -r requirements.txt
